@@ -7,20 +7,15 @@ dan terima kasih juga kepada [maeru](https://github.com/maeruuuuu) & surya yang 
 
 
 **yang ready stock:**
-
 - jkt48.jdex : adalah index room live member jkt48 yang masih aktif.
-
 - official.jdex : adalah index room live official dari jkt48.
-
 - graduates.jdex : adalah index room live member jkt48 yang sudah grad.
-
 - fanbase.jdex : adalah index room live fanbase atau yang berkaitan dengan jkt48.
-
 - ~~fans.jdex : adalah index room live fans jkt48~~ (ini gaada, cuman buat bercanda doang. sebenernya mau sih di bikin, tapi ngumpulinya bakal bingung bgt. 
 mungkin ada yang minat untuk ngumpulin roomnya ?)
 
 **bonus:****
-constants.py : adalah script yang mengatur jam pada bot. bedanya constants.py punya wlerin dengan punya saya adalah, punya wlerin kiblat jamnya ke arah waktu 
+- constants.py : adalah script yang mengatur jam pada bot. bedanya constants.py punya wlerin dengan punya saya adalah, punya wlerin kiblat jamnya ke arah waktu 
 jepang (JST) kalau punya saya kiblat jamnya ke arah waktu indonesia (WIB). jadi nanti dilognya memakai waktu di indonesia.
 ```
 letakan `constants.py` nya di `...\showroom\showroom`
