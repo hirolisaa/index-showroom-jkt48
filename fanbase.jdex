@@ -11,6 +11,15 @@
   {
     "jpnTeam": "SP",
     "engTeam": "SP",
+    "web_url": "https://www.showroom-live.com/29d944836330",
+    "room_id": "348929",
+    "jpnName": "Charger Oshi",
+    "engName": "Charger Oshi",
+    "priority": 1
+  },
+  {
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/2e2a15245592",
     "room_id": "346379",
     "jpnName": "Frieskavers Room",
