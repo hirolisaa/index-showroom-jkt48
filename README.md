@@ -30,4 +30,4 @@ letakan constants.py nya di [~\showroom\showroom]
 JKT48 mana lagi yang membuat room.
 
 
-`Last Update: ???`
+`Last Update this page: ???`
