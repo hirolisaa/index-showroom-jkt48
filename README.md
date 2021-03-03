@@ -28,6 +28,3 @@ letakan constants.py nya di [~\showroom\showroom]
 - priority di index tidak berpengaruh, karena bot bisa merekam sekaligus live showroomnya. sudah dijelasin oleh bg wlerin [disini](https://github.com/wlerin/showroom/issues/29#issuecomment-733889216)
 - mohon maaf kepada fanbase/hal yang berkaitan dengan JKT48 yang belum masuk kedalam index `fanbase.jdex`, dikarenakan saya tidak tahu fanbase/hal yang berkaitan dengan 
 JKT48 mana lagi yang membuat room.
-
-
-`Last Update of this page: ???`
