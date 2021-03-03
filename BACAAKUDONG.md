@@ -8,15 +8,15 @@ dan terima kasih juga kepada [maeru](https://github.com/maeruuuuu) & surya yang 
 
 **yang ready stock:**
 
-⋅⋅*jkt48.jdex : adalah index room live member jkt48 yang masih aktif.
+-jkt48.jdex : adalah index room live member jkt48 yang masih aktif.
 
-⋅⋅*official.jdex : adalah index room live official dari jkt48.
+-official.jdex : adalah index room live official dari jkt48.
 
-⋅⋅*graduates.jdex : adalah index room live member jkt48 yang sudah grad.
+-graduates.jdex : adalah index room live member jkt48 yang sudah grad.
 
-⋅⋅*fanbase.jdex : adalah index room live fanbase atau yang berkaitan dengan jkt48.
+-fanbase.jdex : adalah index room live fanbase atau yang berkaitan dengan jkt48.
 
-⋅⋅*~~fans.jdex : adalah index room live fans jkt48~~ (ini gaada, cuman buat bercanda doang. sebenernya mau sih di bikin, tapi ngumpulinya bakal bingung bgt. 
+-~~fans.jdex : adalah index room live fans jkt48~~ (ini gaada, cuman buat bercanda doang. sebenernya mau sih di bikin, tapi ngumpulinya bakal bingung bgt. 
 mungkin ada yang minat untuk ngumpulin roomnya ?)
 
 **bonus:****
@@ -29,9 +29,9 @@ letakan `constants.py` nya di `...\showroom\showroom`
 
 **note:**
 
-⋅⋅*index akan diupdate terus menerus sampai saya capek, mehehe.
+-index akan diupdate terus menerus sampai saya capek, mehehe.
 
-⋅⋅*priority di index tidak berpengaruh, karena bot bisa merekam sekaligus live showroomnya. sudah dijelasin oleh bg wlerin [disini](https://github.com/wlerin/showroom/issues/29#issuecomment-733889216)
+-priority di index tidak berpengaruh, karena bot bisa merekam sekaligus live showroomnya. sudah dijelasin oleh bg wlerin [disini](https://github.com/wlerin/showroom/issues/29#issuecomment-733889216)
 
-⋅⋅*maaf kepada fanbase/yang berkaitan dengan jkt48 yang belum masuk kedalam index `fanbase.jdex`, dikarenakan saya tidak tahu fanbase/yang berkaitan dengan 
+-maaf kepada fanbase/yang berkaitan dengan jkt48 yang belum masuk kedalam index `fanbase.jdex`, dikarenakan saya tidak tahu fanbase/yang berkaitan dengan 
 jkt48 mana lagi yang membuat room.
