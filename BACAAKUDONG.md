@@ -2,9 +2,8 @@
 
 index ini berbasis dengan script ciptaan bg wlerin [klik disini untuk melihat](https://github.com/wlerin/showroom), terima kasih bg wlerin telah menciptakan script hebat ini.
 
-```
 dan terima kasih juga kepada [maeru](https://github.com/maeruuuuu) & surya yang telah membantu menyusun index ini.
-```
+
 
 
 yang ready stock:
