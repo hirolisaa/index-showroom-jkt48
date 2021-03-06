@@ -19,7 +19,7 @@ mungkin ada yang minat untuk ngumpulin roomnya ?)
 - `constants.py`    : adalah script yang mengatur jam pada bot. bedanya `constants.py` punya wlerin dengan punya saya adalah, punya wlerin kiblat jamnya ke arah waktu 
 jepang (JST) kalau punya saya kiblat jamnya ke arah waktu indonesia (WIB). jadi nanti di lognya memakai waktu di indonesia.
 ```
-letakan constants.py nya di [~\showroom\showroom]
+letakkan constants.py nya di [~\showroom\showroom]
 ```
 
 
