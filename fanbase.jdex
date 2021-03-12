@@ -29,6 +29,15 @@
   {
     "jpnTeam": "SP",
     "engTeam": "SP",
+    "web_url": "https://www.showroom-live.com/a49605304110",
+    "room_id": "350619",
+    "jpnName": "Deyrrior",
+    "engName": "Deyrrior",
+    "priority": 1
+  },
+  {
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/2e2a15245592",
     "room_id": "346379",
     "jpnName": "Frieskavers Room",
@@ -42,6 +51,15 @@
     "room_id": "346284",
     "jpnName": "Gurita48",
     "engName": "Gurita48",
+    "priority": 1
+  },
+  {
+    "jpnTeam": "SP",
+    "engTeam": "SP",
+    "web_url": "https://www.showroom-live.com/7d4734006411",
+    "room_id": "345805",
+    "jpnName": "G Room | Gaby JKT48 Project",
+    "engName": "G Room | Gaby JKT48 Project",
     "priority": 1
   },
   {
