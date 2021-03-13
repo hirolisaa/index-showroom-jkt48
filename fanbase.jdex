@@ -20,6 +20,15 @@
   {
     "jpnTeam": "FB",
     "engTeam": "FB",
+    "web_url": "https://www.showroom-live.com/d4c2e4754997",
+    "room_id": "336388",
+    "jpnName": "Bingo Ijo Podcast",
+    "engName": "Bingo Ijo Podcast",
+    "priority": 1
+  },
+  {
+    "jpnTeam": "FB",
+    "engTeam": "FB",
     "web_url": "https://www.showroom-live.com/29d944836330",
     "room_id": "348929",
     "jpnName": "Charger Oshi",
@@ -143,7 +152,7 @@
     "engName": "Republik Rakyat Chika",
     "priority": 1
   },
-   {
+  {
     "jpnTeam": "FB",
     "engTeam": "FB",
     "web_url": "https://www.showroom-live.com/6c3a35241316",
@@ -152,7 +161,16 @@
     "engName": "Super ZeeOshi Room",
     "priority": 1
   },
-   {
+  {
+    "jpnTeam": "FB",
+    "engTeam": "FB",
+    "web_url": "https://www.showroom-live.com/9cf815287823",
+    "room_id": "349144",
+    "jpnName": "Undercover Project 48",
+    "engName": "Undercover Project 48",
+    "priority": 1
+  },
+  {
     "jpnTeam": "FB",
     "engTeam": "FB",
     "web_url": "https://www.showroom-live.com/d489b5298377",
