@@ -1,7 +1,7 @@
 [
   {
-    "jpnTeam": "SP",
-    "engTeam": "SP",
+    "jpnTeam": "EX",
+    "engTeam": "EX",
     "web_url": "https://www.showroom-live.com/0d50c5242357",
     "room_id": "347214",
     "jpnName": "アヤナ",
@@ -9,8 +9,8 @@
     "priority": 1
   },
   {
-    "jpnTeam": "SP",
-    "engTeam": "SP",
+    "jpnTeam": "EX",
+    "engTeam": "EX",
     "web_url": "https://www.showroom-live.com/Beby_Chaesara",
     "room_id": "318114",
     "jpnName": "ベビー",
@@ -18,8 +18,8 @@
     "priority": 1
   },
   {
-    "jpnTeam": "SP",
-    "engTeam": "SP",
+    "jpnTeam": "EX",
+    "engTeam": "EX",
     "web_url": "https://www.showroom-live.com/Frieska_Laksani",
     "room_id": "317740",
     "jpnName": "フリスカ",
@@ -27,8 +27,8 @@
     "priority": 1
   },
   {
-    "jpnTeam": "SP",
-    "engTeam": "SP",
+    "jpnTeam": "EX",
+    "engTeam": "EX",
     "web_url": "https://www.showroom-live.com/Haruka_Nakagawa",
     "room_id": "330871",
     "jpnName": "遥香",
