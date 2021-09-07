@@ -2,7 +2,7 @@
 
 index ini berbasis dengan script ciptaan bg wlerin [klik disini untuk melihat](https://github.com/wlerin/showroom) 
 
-terima kasih banyak kepada bg wlerin yang telah menciptakan script hebat ini. dan terima kasih juga kepada bg [maeru](https://github.com/maeruuuuu) & bg surya yang 
+terima kasih banyak kepada bg wlerin yang telah menciptakan script hebat ini. dan terima kasih juga kepada bg [maeru](https://github.com/maeruuuuu), bg surya & [chris](https://github.com/crse) yang 
 telah membantu menyusun index ini.
 
 
