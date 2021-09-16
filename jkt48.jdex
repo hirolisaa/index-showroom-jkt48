@@ -7,7 +7,7 @@
     "jpnGroup": "JKT48",
     "engGroup": "JKT48",
     "priority": 1,
-    "web_url": "https://www.showroom-live.com/JKT48_Vivi",
+    "web_url": "https://www.showroom-live.com/JKT48_Ashel",
     "room_id": "318210"
   },
   {
@@ -350,16 +350,5 @@
     "priority": 1,
     "web_url": "https://www.showroom-live.com/JKT48_Chika",
     "room_id": "318209"
-  },
-  {
-    "jpnName": "アラ",
-    "engName": "Ara",
-    "jpnTeam": "ONE",
-    "engTeam": "ONE",
-    "jpnGroup": "JKT48",
-    "engGroup": "JKT48",
-    "priority": 1,
-    "web_url": "https://www.showroom-live.com/JKT48_Ara",
-    "room_id": "318251"
   }
 ]
